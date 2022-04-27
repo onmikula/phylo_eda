@@ -1,0 +1,26 @@
+Genus	ID	ddRAD	Lineage	Country	Locality	Latitude	Longitude
+Heliophobius	KE585_N1	H_N1_5	N1	Kenya	Taita Hills WS, Chawia Forest	-3.4767	38.3423
+Heliophobius	M5x147_SW2	H_SW2_12	SW	Malawi	Domasi	-15.3085	35.3933
+Heliophobius	M8x0181_SW3	H_SW3_21	SW	Malawi	Ntchisi FR	-13.3814	34.0031
+Heliophobius	M8x3006_SW3	H_SW3_27	SW	Malawi	Nyika NP, Safari Camp	-10.4964	33.8878
+Heliophobius	M8x3085_SW2	H_SW2_29	SW	Malawi	Mpalanganga estate	-15.4468	35.2607
+Heliophobius	M8x3142_SE2	H_SE2_32	SE12	Malawi	Chowe	-14.418	35.3791
+Heliophobius	MOZ127_SW2	H_SW2_33	SW	Mozambique	Mt Mabu, Namadoue	-16.367	36.4134
+Heliophobius	MOZ204_SE3	H_SE3_35	SE3	Mozambique	Gile NP, Nova Naburi	-16.7396	38.8266
+Heliophobius	MOZ207_SE3	H_SE3_36	SE3	Mozambique	Gile NP, Nova Naburi	-16.7396	38.8266
+Heliophobius	MOZ209_SE3	H_SE3_37	SE3	Mozambique	Gile NP, Nova Naburi	-16.7396	38.8266
+Heliophobius	MOZ305_SE2	H_SE2_38	SE12	Mozambique	Mt Jesi, Djawalla	-12.9064	35.1619
+Heliophobius	T8x382_N4	H_N4_43	N4	Tanzania	Usambara Mts, Mgambo	-5.0437	38.6142
+Heliophobius	T8x394_SE1	H_SE1_46	SE12	Tanzania	Kipera, Mkuyuni	-6.9397	37.535
+Heliophobius	T8x404_SE1	H_SE1_47	SE12	Tanzania	Msanga	-10.9025	39.2073
+Heliophobius	T8x438_SE2	H_SE2_52	SE12	Tanzania	Lihale	-10.7975	35.1674
+Heliophobius	T8x449_N2	H_N2_54	N2	Tanzania	Ntendo	-7.9047	31.5364
+Heliophobius	T8x457_N3	H_N3_55	N3	Tanzania	Nayala	-8.9384	33.1825
+Heliophobius	T8x458_N3	H_N3_56	N3	Tanzania	Nayala	-8.9384	33.1825
+Heliophobius	T8x459_N3	H_N3_57	N3	Tanzania	Nayala	-8.9384	33.1825
+Heliophobius	TZ28026_N4	H_N4_64	N4	Tanzania	Masenge (Ukaguru Mts), Mamiwa village	-6.364	36.9291
+Heliophobius	TZ28170_N4	H_N4_66	N4	Tanzania	Kireguru, Fallow	-5.466	37.6142
+Heliophobius	TZ30038_SE1	H_SE1_69	SE12	Tanzania	Mikumi	-7.4125	36.9767
+Heliophobius	Z7x43_SW3	H_SW3_71	SW	Zambia	Kacholola	-14.7618	30.5965
+Heliophobius	RMCAx11262M	NA	NA	DRC	Dubie	-8.33	28.32
+Heliophobius	RS1634	NA	NA	Tanzania	MbiziHillFR	-7.8929	31.679
