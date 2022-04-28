@@ -1,2 +1,2 @@
 # phylo_eda
-Exploratory analysis of phylogenetic / phylogeographic data.
+Exploratory analyses of phylogenetic / phylogeographic data.
